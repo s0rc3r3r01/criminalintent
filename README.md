@@ -1,2 +1,2 @@
 # criminalintent
-A Simple Android App
+A Simple Android Test App
